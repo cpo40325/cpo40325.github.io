@@ -1,5 +1,0 @@
-export default{
-    // UPDATE_TIME: 'UPDATE_TIME',
-    // CHOOSE_STAGE: 'CHOOSE_STAGE',
-    // DESTROY_SQUARE: 'DESTROY_SQUARE'
-};
